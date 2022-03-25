@@ -1,0 +1,17 @@
+body{ 
+ background-color: rgb(207, 202, 212);
+ color:#0f141e;
+ font-size: 19px;
+ font-weight: normal;
+ font-family: 'Roboto', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Roboto:wght@300&display=swap');
+.starr { width: 1400px;}
+
+.teor {background: rgb(210, 197, 223);}
+
+.who {background: rgb(210, 197, 223);}
+
+.tss {background: rgb(210, 197, 223);}
+
+.itog { border: 1px solid black }
